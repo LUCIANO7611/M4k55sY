@@ -7,5 +7,4 @@ go.sum text eol=lf
 /rclone.1 linguist-generated=true
 
 # Don't fiddle with the line endings of test data
-**/testdata/** -text
 **/test/** -text

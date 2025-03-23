@@ -22,7 +22,6 @@ If applicable, add screenshots and/or .gif to help explain your problem.
 
 **What is affected by this bug?**
 
-**When does this occur?**
 
 **Please tell us about your environment: (REPLACE EXAMPLE VALUES BELOW WITH YOUR ACTUAL VALUES)**
   

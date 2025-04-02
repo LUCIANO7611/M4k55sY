@@ -1,0 +1,13 @@
+run:
+  deadline: 600s
+  skip-dirs:
+    - pkg/apis/shipper/v1alpha1
+    - pkg/clients
+  modules-download-mode: readonly
+linters:
+  disable-all: true
+  enable:
+    - vet
+    - ineffassign
+    - deadcode
+    - staticcheck

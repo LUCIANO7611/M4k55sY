@@ -193,7 +193,6 @@ linters-settings:
 
   stylecheck:
     # STxxxx checks in https://staticcheck.io/docs/configuration/options/#checks
-    # Default: ["*"]
     checks: ["all", "-ST1003"]
 
   revive:

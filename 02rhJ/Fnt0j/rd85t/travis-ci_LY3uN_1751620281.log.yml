@@ -25,7 +25,6 @@ Style/IfUnlessModifier:
   Enabled: false
 Naming/MemoizedInstanceVariableName:
   EnforcedStyleForLeadingUnderscores: required
-Style/MultilineBlockChain:
   Enabled: false
 Lint/ConstantDefinitionInBlock:
   Enabled: false
